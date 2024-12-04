@@ -1,0 +1,5 @@
+biodata
+
+nama: nur Fauziyah
+kelas: 4IA20
+npm: 51421155
